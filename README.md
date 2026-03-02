@@ -11,7 +11,7 @@ The project is designed as a minimal, easy-to-understand example for developers 
 
 ---
 
-## Table of Contents
+## Table of Contents:
 - [Project Structure](#project-structure)
 - [Features](#features)
 - [Installation](#installation)
