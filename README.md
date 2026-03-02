@@ -1,4 +1,4 @@
-# Simple Chatbot with Ollama and LangSmith Tracking
+# Simple Chatbot with Ollama and LangSmith Tracking:
 
 ## Introduction
 This project demonstrates a **simple Streamlit-based chatbot** powered by **Ollama** using the **Gemma model**, with environment configuration handled via `python-dotenv`. The chatbot provides an interactive UI for asking questions and receiving responses from a locally running LLM.
