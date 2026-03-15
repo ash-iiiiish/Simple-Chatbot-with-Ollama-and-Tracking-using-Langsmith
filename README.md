@@ -10,7 +10,7 @@ The project is designed as a minimal, easy-to-understand example for developers 
 - (Optional) Experiment tracking concepts with LangSmith
 
 ---
-[Demo](images\image.png)
+![Project Demo](images/image.png)
 
 ## Table of Contents:
 - [Project Structure](#project-structure)
